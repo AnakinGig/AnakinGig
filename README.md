@@ -1,4 +1,4 @@
-# Hello there 👋
+## Hello there 👋
 
 I'm Anakin, a software and cybersecurity student from France.
 
@@ -11,14 +11,14 @@ Everything you'll see here is fresh from my brain.
 
 ---
 
-# Tools & Tech
+## Tools & Tech
 
 * Flask, PHP, Redis, OpenAPI
 * React, Bootstrap, Figma
 
 ---
 
-# A bit about me
+## A bit about me
 * I like learning new things
 * Love anime like RE:Zero (the best one)
 * Yes Anakin is indeed my real legal name
