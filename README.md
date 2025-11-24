@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**AnakinGig/AnakinGig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anakin, a software and cybersecurity student from France.
 
-Here are some ideas to get you started:
+I'm mostly working on backend -- Flask, PHP, Redis, OpenAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also do some frontend like React or Bootstrap with Figma as a base.
+
+This is my main profile where i'll have public projects i'm working on, experimenting or just having fun.
+Everything you'll see here is fresh from my brain.
+
+---
+
+# Tools & Tech
+
+* Flask, PHP, Redis, OpenAPI
+* React, Bootstrap, Figma
+
+---
+
+# A bit about me
+* I like learning new things
+* Love anime like RE:Zero (the best one)
+* Yes Anakin is indeed my real legal name
