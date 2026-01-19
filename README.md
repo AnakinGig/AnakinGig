@@ -1,28 +1,42 @@
 ## Hello there 👋
 
-I'm Anakin, a software and cybersecurity student from France.
+I'm **Anakin**, a software development and cybersecurity student based in France 🇫🇷
 
-I'm mostly working on backend -- Flask, PHP, Redis, OpenAPI
+I mainly work on **backend development**, with a strong focus on:
 
-I also do some frontend like React or Bootstrap with Figma as a base.
+* Flask, PHP
+* Redis
+* OpenAPI design
 
-This is my main profile where i'll have public projects i'm working on, experimenting or just having fun.
-Everything you'll see here is fresh from my brain.
+I also enjoy doing **frontend work** when needed, using tools like React and Bootstrap, usually starting from designs made in Figma.
 
----
-
-## Tools & Tech
-
-* Flask, PHP, Redis, OpenAPI
-* React, Bootstrap, Figma
+This is my main GitHub profile, where I publish public projects I’m actively working on, experimenting with, or just building for fun.
+Everything you’ll find here is fresh, hands-on, and straight from my brain 🧠
 
 ---
 
-## A bit about me
-* I like learning new things
-* Love anime like RE:Zero (the best one)
-* Yes Anakin is indeed my real legal name
+## 🛠️ Tools & Technologies
+
+**Backend**
+
+* Flask, PHP
+* Redis
+* OpenAPI
+
+**Frontend & Design**
+
+* React
+* Bootstrap
+* Figma
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnakinGig&layout=donut-vertical&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+## 👨‍💻 A bit about me
+
+* Always curious and eager to learn new things
+* Anime fan, especially **Re:Zero** (yes, it’s the best one)
+* And yes, **Anakin is my real legal name**
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnakinGig\&layout=donut-vertical\&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
