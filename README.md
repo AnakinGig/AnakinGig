@@ -1,42 +1,48 @@
-## Hello there 👋
+## 👋 Hello there
 
-I'm **Anakin**, a software development and cybersecurity student based in France 🇫🇷
-
-I mainly work on **backend development**, with a strong focus on:
-
-* Flask, PHP
-* Redis
-* OpenAPI design
-
-I also enjoy doing **frontend work** when needed, using tools like React and Bootstrap, usually starting from designs made in Figma.
-
-This is my main GitHub profile, where I publish public projects I’m actively working on, experimenting with, or just building for fun.
-Everything you’ll find here is fresh, hands-on, and straight from my brain 🧠
+I'm **Anakin**, a **software development & cybersecurity student** based in France 🇫🇷
+I enjoy building reliable systems, clean APIs, and learning how things work under the hood.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 💻 What I work on
 
-**Backend**
+### Backend (main focus)
 
-* Flask, PHP
-* Redis
-* OpenAPI
+* **Flask**, **PHP**
+* **Redis**
+* **REST APIs & OpenAPI specifications**
+* Architecture, performance, and security basics
 
-**Frontend & Design**
+### Frontend (when needed)
 
-* React
-* Bootstrap
-* Figma
+* **React**
+* **Bootstrap**
+* **Figma** for design-first workflows
+
+---
+
+## 🚀 About this GitHub
+
+This is my main GitHub profile where I:
+
+* Publish **public projects**
+* Experiment with new ideas and technologies
+* Build things for learning and for fun
+
+Everything here is **hands-on, evolving, and actively maintained**.
 
 ---
 
-## 👨‍💻 A bit about me
+## 🧠 A bit about me
 
-* Always curious and eager to learn new things
-* Anime fan, especially **Re:Zero** (yes, it’s the best one)
-* And yes, **Anakin is my real legal name**
+* Curious by nature, always learning
+* Cybersecurity enthusiast
+* Anime fan, especially **Re:Zero** (no debate)
+* Fun fact: **Anakin is my real legal name**
 
 ---
+
+## 📊 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnakinGig\&layout=donut-vertical\&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
