@@ -25,4 +25,4 @@ Everything you'll see here is fresh from my brain.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnakinGig)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnakinGig&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
