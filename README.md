@@ -8,19 +8,20 @@ I enjoy building reliable systems, clean APIs, and learning how things work unde
 ## 💻 What I work on
 
 ### Cybersecurity & Infrastructure (hands-on)
-* **Personal VPS as a security playground**
-* **Wazuh** (SIEM & threat detection)
-* **Traefik** (reverse proxy & routing)
-* **Authentik** (identity & access management)
-* **Portainer** (container management)
+* **Personal VPS** (security lab)
+* **Wazuh**
+* **Traefik**
+* **Authentik**
+* **Portainer**
+* **Fail2Ban**
 * Exploration of system hardening, monitoring, and secure deployments
 
 ### Backend (second focus)
 
 * **Flask**, **FastAPI** **PHP**
 * **Redis**
-* **REST APIs & OpenAPI specifications**
-* **Swagger** documentation
+* **REST APIs**
+* **OpenAPI / Swagger**
 * Architecture, performance, and security basics
 
 ### Frontend (when needed)
