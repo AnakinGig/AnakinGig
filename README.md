@@ -7,11 +7,20 @@ I enjoy building reliable systems, clean APIs, and learning how things work unde
 
 ## 💻 What I work on
 
-### Backend (main focus)
+### Cybersecurity & Infrastructure (hands-on)
+* **Personal VPS as a security playground
+*** Wazuh** (SIEM & threat detection)
+* **Traefik** (reverse proxy & routing)
+* **Authentik** (identity & access management)
+* **Portainer** (container management)
+* Exploration of system hardening, monitoring, and secure deployments
 
-* **Flask**, **PHP**
+### Backend (second focus)
+
+* **Flask**, **FastAPI** **PHP**
 * **Redis**
 * **REST APIs & OpenAPI specifications**
+* **Swagger** documentation
 * Architecture, performance, and security basics
 
 ### Frontend (when needed)
