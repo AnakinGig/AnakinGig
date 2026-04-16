@@ -1,7 +1,8 @@
 ## 👋 Hello there
 
-I'm **Anakin**, a **software development & cybersecurity student** based in France 🇫🇷
-I enjoy building reliable systems, clean APIs, and learning how things work under the hood.
+I'm **Anakin**, a **cybersecurity & software development student** based in France.
+I focus on securing systems, understanding infrastructure, and exploring how applications can be hardened against real-world threats.
+Alongside that, I build reliable systems and clean APIs, with a strong interest in how things work under the hood.
 
 ---
 
