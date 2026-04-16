@@ -8,8 +8,8 @@ I enjoy building reliable systems, clean APIs, and learning how things work unde
 ## 💻 What I work on
 
 ### Cybersecurity & Infrastructure (hands-on)
-* **Personal VPS as a security playground
-*** Wazuh** (SIEM & threat detection)
+* **Personal VPS as a security playground**
+* **Wazuh** (SIEM & threat detection)
 * **Traefik** (reverse proxy & routing)
 * **Authentik** (identity & access management)
 * **Portainer** (container management)
