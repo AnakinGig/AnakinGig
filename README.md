@@ -56,4 +56,4 @@ Everything here is **hands-on, evolving, and actively maintained**.
 
 ## 📊 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnakinGig\&layout=donut-vertical\&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=AnakinGig\&layout=donut-vertical\&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
